@@ -1,1 +1,3 @@
 This code should allow the drone to be able to go under the red and green arch and get the color from the blue/first mat.
+
+As each update gets added, the drone should be able to get through the course successfully.
